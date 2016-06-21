@@ -15,7 +15,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import org.reflections.Reflections;
 
-import com.cooksys.butterpillar.model.IButterpillar;
+import com.cooksys.butterpillar.model.*;
 
 public class ButterpillarSortingTest {
 
